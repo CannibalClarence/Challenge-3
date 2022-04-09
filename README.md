@@ -16,7 +16,7 @@ https://cannibalclarence.github.io/Challenge-3/
 
 I tried to get screen shots of all of the window prompts but for some reason my browser wont let me web capture when a window prompt is up.
 
-I was having a problem where on my local "repo" I couldnt push or sync up to the romote repo. I kept getting the error code you do not have rights or acces to repo/ repo does not exist. so I created the repo remotely then I dragged and dropped all my files into it. I couldnt figure out what I did wrong being as I have had no problem with doing it on my other challenges or in my modules. so there are no commit messages due to this fact unfortunatly.
+I was having a problem where on my local "repo" I couldnt push or sync up to the romote repo. I kept getting the error code you do not have rights or acces to repo/ repo does not exist, Even when I would git init and or git pull. so I created the repo remotely then I dragged and dropped all my files into it. I couldnt figure out what I did wrong being as I have had no problem with doing it on my other challenges or in my modules. so there are no commit messages due to this fact unfortunatly.
 
 also I could not drag and drop my .gitignore being as the file is hidden.
 
